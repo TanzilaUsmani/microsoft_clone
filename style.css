@@ -1,0 +1,117 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+.bodystyle{width: 90%;
+	margin: 0 auto;
+
+}
+
+.logostyle{
+	height: 10vh;
+}
+ .carousel-inner img {
+    width: 100%;
+    height: 500px;
+  }
+  main{
+  	margin: 60px ;
+  }
+  .card{
+  	border: none!important;
+  }
+  
+  .carousel-item{
+  	position: relative;
+  }
+  . .carousel-caption{
+  	position: absolute;
+  	top: 0;
+  	left: 0!important;
+  }
+  .carousel-caption h3{
+text-align: top;
+color: black;
+  }
+   .carousel-caption p{
+text-align: top;
+color: black;
+  }
+
+.carousel-caption  button{
+	color: #fff;
+	background-color: #000;
+	font-size: 15px;
+	padding: 10px 20px;
+	border: none;
+
+  }
+  .card-body{
+  	padding: 25px 0!important;
+  }
+  .card-img-top{
+  	height: 200px;
+  }
+.mstyle{width: 100%;
+	height: 450px;
+	background-image:linear-gradient(to right,rgba(0,0,0,7),rgba(0,0,0,0)) ,url("image/8.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 20px 0 40px 0;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-left: 70px;
+	text-align: justify;
+
+}
+
+
+button{
+	color: #000;
+	background-color: #fff;
+	font-size: 15px;
+	padding: 10px 20px;
+	border: none;
+	font-weight: bold;
+
+  }
+
+
+  .work{
+  	margin: 60px;
+  }
+
+  .socialstyle{
+  	margin: 0 50px 40px;
+  }
+.fa-youtube{
+	color: red;
+}
+.fa-facebook{
+	color: darkblue;
+
+}
+
+footer{
+	background-color: #f2f2f2;
+	padding: 40px 0;
+}
+footer li{
+	list-style: none;
+}
+
+footer a{
+	text-decoration: none;
+	color: #818181;
+}
+.end{
+	margin: 0px 0px 0px 0px;
+}
+.footernav{
+	display: flex;
+	justify-content: space-between;
+}
